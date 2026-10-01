@@ -11,7 +11,7 @@ export const LEAD_STATUSES = [
   'Complete',
 ]
 
-export const DATASETS = ['dataset_1', 'dataset_2']
+export const DATASETS = ['dataset_1', 'dataset_2', 'dataset_3']
 
 const leadSchema = new mongoose.Schema(
   {
