@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+!.env.example
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build / coverage
+dist/
+coverage/
+
+# Editor directories and files
+.vscode/*
+.idea
+.DS_Store
+*.suo
+*.sw?
